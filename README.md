@@ -2,9 +2,9 @@
 
 ### Description:
 
-**Medusa** is an extensible framework for **Android applications** which automates processes and techniques practised during the **dynamic analysis** of a malware investigation.  
+**Medusa** is an extensible framework for **Android applications** that automate processes and techniques practiced  during the **dynamic analysis** in malware investigation.  
 
-It's functionality can be summarised as follows:
+Its functionality can be summarised as follows:
 
 - Tracing and instrumentation of API calls used by common malware categories
 
